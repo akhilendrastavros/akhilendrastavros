@@ -15,6 +15,7 @@
       -AWS- DevOps, Serverless CI/CD
       
       -JAVA
+      - Blockchain - Ethereum
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
