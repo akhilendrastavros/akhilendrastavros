@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhilendrastavros
 - 👀 I’m interested in ...
 - 
-      -Coding! Ive worked on several small projects related to Python and HTML. I like to attend Hackathons in my spare time :)
+      -Coding! Ive worked on several small projects related to Python and HTML. I am working towards my AWS certification working with APIs and DevOps. I like to attend Hackathons in my spare time :)
       
       -Engineering! I like to build things :)
       
@@ -10,14 +10,15 @@
       -Weightlifting! I have been lifting weights since quarantine, trying to get stronger.
 - 🌱 I’m currently learning ...
 - 
-      -PICO - MicroPython for Raspberry Pi PICO
+      -PICO - MicroPython for Raspberry Pi PICO (microcontroller board)
       
-      -HTML 
+      -AWS- DevOps, Serverless CI/CD
       
       -JAVA
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
+-     Business email - akhilendranair@gmail.com
 -     
 
 <!---
