@@ -12,7 +12,7 @@
 - 
       -PICO - MicroPython for Raspberry Pi PICO (microcontroller board)
       
-      -AWS- DevOps, Serverless CI/CD
+      -AWS- DevOps, Serverless CI/CD, Elastic Beanstalk, Visual Basic
       
       -JAVA
       
