@@ -20,7 +20,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
--     Business email - akhilendranair@gmail.com
+-     
 -     
 
 <!---
