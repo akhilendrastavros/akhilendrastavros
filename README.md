@@ -15,6 +15,7 @@
       -AWS- DevOps, Serverless CI/CD, Elastic Beanstalk, Visual Basic
       
       -JAVA
+      -C# and .NET FRAMEWORK
       
       -Blockchain - Ethereum
 - 💞️ I’m looking to collaborate on ...
